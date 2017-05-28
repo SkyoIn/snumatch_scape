@@ -1,0 +1,5 @@
+*.csv
+.idea/
+*.7z
+images/
+*.png
